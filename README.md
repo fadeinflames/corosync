@@ -1,1 +1,1 @@
-# corosync
+# Simple example corosync file
